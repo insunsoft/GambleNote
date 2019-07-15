@@ -1,0 +1,7 @@
+
+.notice {
+	margin: 0rpx 0px;
+	background-color: #f9f4dc;
+	height: 80rpx;
+}
+

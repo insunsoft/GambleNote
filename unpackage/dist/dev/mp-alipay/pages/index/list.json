@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "输赢记录",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

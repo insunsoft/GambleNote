@@ -1,0 +1,28 @@
+
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.notice {
+	margin: 0rpx 0px;
+	background-color: #f9f4dc;
+	height: 80rpx;
+}
+.insunoverflow {
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	white-space: nowrap;
+	width: 100%;
+}
+.cu-form-group .title {
+	min-width: -webkit-calc(4em + 15px);
+	min-width: calc(4em + 15px);
+}
+
+page::after{position: fixed;left: -1000px;top: -1000px;content: url(https://cdn.dcloud.net.cn/img/shadow-grey.png)}

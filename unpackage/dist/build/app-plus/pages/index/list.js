@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"notice { margin: ",[0,0]," 0px; background-color: #f9f4dc; height: ",[0,80],"; }\n",],undefined,{path:"./pages/index/list.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/list.wxml') } }));

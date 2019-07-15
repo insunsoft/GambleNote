@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/list",
+    "pages/index/feriends",
+    "pages/index/winitem",
+    "pages/index/user",
+    "pages/index/edit"
+  ],
+  "window": {
+    "defaultTitle": "独孤求败",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

@@ -1,0 +1,6 @@
+
+.cu-form-group .title {
+	min-width: -webkit-calc(4em + 15px);
+	min-width: calc(4em + 15px);
+}
+
